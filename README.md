@@ -4,7 +4,7 @@ In the repository, you will find the analysis of the project. As well as the gam
 
 
 ![tui](https://github.com/ElFahsi-Abdessalam/Abalone/blob/main/ScreenGame/gui.png)
-![gui](/ScreenGame/gui)
+![gui](https://github.com/ElFahsi-Abdessalam/Abalone/blob/main/ScreenGame/tui.png)
 
 #Rules
 
