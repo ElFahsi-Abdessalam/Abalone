@@ -3,8 +3,8 @@
 In the repository, you will find the analysis of the project. As well as the game playable in tui and gui
 
 
-![tui]creenGame/tui)
-![gui](sScreenGame/gui)
+![tui](ScreenGame/tui)
+![gui](ScreenGame/gui)
 
 #Rules
 
